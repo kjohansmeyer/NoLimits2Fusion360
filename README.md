@@ -10,8 +10,10 @@ In NoLimits2 Professional Edition:
 3. Export "Editor Spline". Distance between points may vary, but you may want to use  0.5 meters or 1.0 meters.
 
 In File Explorer:
+
 4. Download NoLimits2Fusion360.py and put it in the same folder as your exported CSV.
-5. Change line 10 of the Python code to match the expected file name.
+
+6. Change line 10 of the Python code to match the expected file name.
 
 In Python:
 7. Run the Python program and complete the following prompts:
