@@ -11,19 +11,18 @@ In NoLimits2 Professional Edition:
 
 In File Explorer:
 
-4. Download NoLimits2Fusion360.py and put it in the same folder as your exported CSV.
-
-6. Change line 10 of the Python code to match the expected file name.
+1. Download NoLimits2Fusion360.py and put it in the same folder as your exported CSV.
+2. Change line 10 of the Python code to match the expected file name.
 
 In Python:
-7. Run the Python program and complete the following prompts:
-8. Type in maximum height in millimeters. The entire array and coaster will be scaled accordingly.
-9. Type '0' for number of points - makes each piece X points long OR type '1' for segments - splits ride into equal pieces.
-10. Type in the number of points OR the number of segments.
-11. The new CSV files will automatically populate in the same location as NoLimits2Fusion360.py.
+1. Run the Python program and complete the following prompts:
+2. Type in maximum height in millimeters. The entire array and coaster will be scaled accordingly.
+3. Type '0' for number of points - makes each piece X points long OR type '1' for segments - splits ride into equal pieces.
+4. Type in the number of points OR the number of segments.
+5. The new CSV files will automatically populate in the same location as NoLimits2Fusion360.py.
 
 In Fusion360:
-12. Go to Utilities > Add-ins > ImportSplineCSV
-13. Import all files starting with '3', '4', and '5'.
+1. Go to Utilities > Add-ins > ImportSplineCSV
+2. Import all files starting with '3', '4', and '5'.
 
 Further Fusion360 instructions - see the following video: https://youtu.be/7zUMft1ZAg4
