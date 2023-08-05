@@ -41,9 +41,9 @@ for n in range(0,numPoints-1):
 
 # Rescale Arrays to Proper Height:
 zCenterMax = np.amax(centerArray[:, 2])
-leftArray = (maxHeight/zCenterMax)*leftArray
-centerArray = (maxHeight/zCenterMax)*centerArray
-rightArray = (maxHeight/zCenterMax)*rightArray
+leftArray = (1/10)*(maxHeight/zCenterMax)*leftArray
+centerArray = (1/10)*(maxHeight/zCenterMax)*centerArray
+rightArray = (1/10)*(maxHeight/zCenterMax)*rightArray
 
 # Save Arrays as CSVs:
 np.savetxt("0leftArrayAll.csv",leftArray,delimiter=",")
