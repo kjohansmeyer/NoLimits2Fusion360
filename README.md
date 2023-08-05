@@ -9,7 +9,7 @@ In NoLimits2 Professional Edition:
 2. Go to Professional > Export Track Spline
 3. Export "Editor Spline". Distance between points may vary, but you may want to use  0.5 meters or 1.0 meters.
 
-![NoLimits2screenshot](https://imgur.com/TVdKicZ)
+![NoLimits2screenshot](https://i.imgur.com/TVdKicZ.png)
 
 In File Explorer:
 1. Download NoLimits2Fusion360.py and put it in the same folder as your exported CSV.
@@ -26,7 +26,7 @@ In Fusion360:
 1. Go to Utilities > Add-ins > ImportSplineCSV
 2. Import all files starting with '3', '4', and '5'.
 
-![Fusion360screenshot](https://imgur.com/4FQ3TR0)
+![Fusion360screenshot](https://i.imgur.com/4FQ3TR0.png)
 
 Further Fusion360 instructions - see the following video: https://youtu.be/7zUMft1ZAg4
 
